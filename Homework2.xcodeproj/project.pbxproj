@@ -13,6 +13,7 @@
 		C3BA35971F93F04F0056CC8B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C3BA35961F93F04F0056CC8B /* Assets.xcassets */; };
 		C3BA359A1F93F04F0056CC8B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C3BA35981F93F04F0056CC8B /* LaunchScreen.storyboard */; };
 		C3BA359D1F93F04F0056CC8B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C3BA359C1F93F04F0056CC8B /* main.m */; };
+		C3BA35A51F94151C0056CC8B /* MDCCampus.m in Sources */ = {isa = PBXBuildFile; fileRef = C3BA35A41F94151C0056CC8B /* MDCCampus.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		C3BA35991F93F04F0056CC8B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C3BA359B1F93F04F0056CC8B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C3BA359C1F93F04F0056CC8B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		C3BA35A31F94151C0056CC8B /* MDCCampus.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MDCCampus.h; sourceTree = "<group>"; };
+		C3BA35A41F94151C0056CC8B /* MDCCampus.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MDCCampus.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				C3BA358E1F93F04F0056CC8B /* AppDelegate.m */,
 				C3BA35901F93F04F0056CC8B /* ViewController.h */,
 				C3BA35911F93F04F0056CC8B /* ViewController.m */,
+				C3BA35A31F94151C0056CC8B /* MDCCampus.h */,
+				C3BA35A41F94151C0056CC8B /* MDCCampus.m */,
 				C3BA35931F93F04F0056CC8B /* Main.storyboard */,
 				C3BA35961F93F04F0056CC8B /* Assets.xcassets */,
 				C3BA35981F93F04F0056CC8B /* LaunchScreen.storyboard */,
@@ -145,6 +150,7 @@
 				C3BA35921F93F04F0056CC8B /* ViewController.m in Sources */,
 				C3BA359D1F93F04F0056CC8B /* main.m in Sources */,
 				C3BA358F1F93F04F0056CC8B /* AppDelegate.m in Sources */,
+				C3BA35A51F94151C0056CC8B /* MDCCampus.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
